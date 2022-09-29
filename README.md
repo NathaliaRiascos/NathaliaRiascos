@@ -8,7 +8,6 @@
 
 Hi there, I'm **Nathalia Riascos**, a **Frontend** and a **Systems technology student** 🚀 from Colombia.
 
-  <img align="right" alt="GIF" src="https://tenor.com/bdvPE.gif" />
 
 **Talking about Personal Stuffs:**
 
