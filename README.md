@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/nathalia-riascos-84029a200/">
   <img align="left" alt="Nathalia's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://gitlab.com/NathaliaRiascos">
+  <img align="left" alt="Nathalia's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+</a>
 <br />
 <br />
 
