@@ -18,7 +18,7 @@ Hi there, I'm **Nathalia Riascos**, a **Frontend** and a **Systems technology st
 - 🌱 I’m currently learning Firebase.
 - 🤔 My interests are with software development especially frontend development.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 Please email via riascosnathalia.6@gmail.com to reach me.
+- 📫 Please email via riascosnathalia6@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1paWg96kd4YYqbQPbpXoJw1SAV-Aij2Xn/view?usp=sharing) to get more info.
 
 
