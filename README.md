@@ -19,7 +19,7 @@ Hi there, I'm **Nathalia Riascos**, a **Frontend** and a **Systems technology st
 - 🤔 My interests are with software development especially frontend development.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via riascosnathalia6@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae]([(https://drive.google.com/file/d/1-1ILavz7ofzkD_iBZFRVKJ8VlzwclCeD/view?usp=drive_link]) to get more info.
+- 📝 See my [Curriculum Vitae]([https://drive.google.com/file/d/1-1ILavz7ofzkD_iBZFRVKJ8VlzwclCeD/view?usp=drive_link]) to get more info.
 
 
 **Languages and Tools:**  
