@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi there, I'm **Nathalia Riascos**, a **Frontend** and a **Systems technology student** 🚀 from Colombia.
+Hi there, I'm **Nathalia Riascos**, a **Frontend Developer**🚀 from Colombia.
 
 
 **Talking about Personal Stuffs:**
